@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Board.cpp
+Board.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Board.h
+iostream
+-
+vector
+-
+Player.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.h
+time.h
+-
+
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Board.h
+iostream
+-
+vector
+-
+Player.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.h
+
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.cpp
+iostream
+-
+Player.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.h
+
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.h
+
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/main.cpp
+Player.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Player.h
+Board.h
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/Board.h
+

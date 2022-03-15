@@ -1,0 +1,3 @@
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/cmake-build-debug/CMakeFiles/untitled4.dir
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gamsj/CLionProjects/OasenCrawler mit Klassen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
